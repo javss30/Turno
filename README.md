@@ -1,6 +1,6 @@
-# Kent Jorsh Turno — Portfolio
+# Kent Jorsh Turno FE — Portfolio
 
-A static portfolio site. `index.html` is the hosting entry point, `turno.png` is the transparent hero portrait, and the compiled Tailwind stylesheet is in `assets/styles.css`.
+A static portfolio site. `index.html` is the hosting entry point, `turno.png` is the transparent hero portrait, and the compiled Tailwind stylesheet is in `assets/styles.css`. 
 
 ## Run locally
 
